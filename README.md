@@ -1,4 +1,4 @@
-# social_media_photographers
+# Social media for posting photos!
 
 A new Flutter project done with dart.
 
